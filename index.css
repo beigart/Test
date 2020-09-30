@@ -1,0 +1,18 @@
+.bodycontainer {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    grid-template-rows: repeat(3, 1fr);
+}
+
+.box1 {
+    background-color: violet;
+}
+
+.box2 {
+    background-color: blue;
+}
+
+.box3 {
+    background-color: greenyellow;
+}
+
